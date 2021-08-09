@@ -562,8 +562,9 @@ header .sticky ul li a
     position: absolute;
     width: 1280px;
     left: 0px;
-    height: 604px;
-    top: 5400px;
+    height: 54px;
+    top: 4500px;
+    
 }
 .timeline h3
 {
@@ -579,6 +580,7 @@ header .sticky ul li a
     align-items: center;
     text-align: center;
     color: #fff;
+    padding: 20px;
 }
 .yr1
 {
@@ -741,7 +743,7 @@ header .sticky ul li a
     width: 1280px;
     height: 1138px;
     left: 0;
-    top: 4798px;
+    top: 4000px;
 }
 .blog h3
 {
@@ -1041,4 +1043,23 @@ header .sticky ul li a
     left: 10px;
     top: 350px;
     clip-path: circle();
+}
+
+/*--- footer styling---
+footer
+{
+    position: absolute;
+    width: 1280px;
+    height: 252px;
+    left: 0px;
+    top: 6600px;
+    background: rgba(28, 76, 99, 0.92);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+footer p
+{
+    color: #fff;
+    top: 100px;
 }
