@@ -562,8 +562,9 @@ header .sticky ul li a
     position: absolute;
     width: 1280px;
     left: 0px;
-    height: 54px;
+    height: 650px;
     top: 4500px;
+    background-color: rgba(117, 9, 9, 0.541);
     
 }
 .timeline h3
@@ -572,7 +573,7 @@ header .sticky ul li a
     width: 245px;
     height: 75px;
     left: 431px;
-    top: -35px;
+    top: 35px;
     font-style: normal;
     font-weight: normal;
     font-size: 36px;
@@ -588,7 +589,7 @@ header .sticky ul li a
     width: 686px;
     height: 53px;
     left: 342px;
-    top: 100px;
+    top: 120px;
     font-size: 24px;
     display: flex;
     align-items: center;
@@ -755,7 +756,7 @@ header .sticky ul li a
     width: 96px;
     height: 58px;
     left: 544px;
-    top: 1400px;
+    top: 1200px;
     font-style: normal;
     font-weight: normal;
     font-size: 36px;
@@ -770,7 +771,7 @@ header .sticky ul li a
     width: 384px;
     height: 426px;
     left: 68px;
-    top: 1600px;
+    top: 1400px;
     background: #fff;
     border-radius: 20px;
 }
@@ -841,7 +842,7 @@ header .sticky ul li a
     width: 384px;
     height: 426px;
     left: 480px;
-    top: 1600px;
+    top: 1400px;
     background: #fff;
     border-radius: 20px;
 }
@@ -912,7 +913,7 @@ header .sticky ul li a
     width: 384px;
     height: 426px;
     left: 900px;
-    top: 1600px;
+    top: 1400px;
     background: #fff;
     border-radius: 20px;
 }
@@ -983,7 +984,7 @@ header .sticky ul li a
     width: 384px;
     height: 426px;
     left: 68px;
-    top: 2150px;
+    top: 1900px;
     background: #fff;
     border-radius: 20px;
 }
