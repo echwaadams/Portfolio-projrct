@@ -521,14 +521,14 @@ header .sticky ul li a
     top: 620px;
     font-weight: 300;
     font-size: 1.2em;
-    display: flex;
     align-items: center;
     text-align: center;
     color: #fff;   
 }
 .front ol li
 {
-    left: 106px;
+    left: 110px;
+    position: relative;
     
 }
 .back h4
@@ -549,6 +549,8 @@ header .sticky ul li a
 .back ol li 
 {
     top: 100px;
+    position: relative;
+    left: 80px;
 }
 
 /*---timeline---*/
