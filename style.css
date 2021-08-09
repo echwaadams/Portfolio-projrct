@@ -122,3 +122,56 @@ header .sticky ul li a
     top: 2.44%;
     bottom: -1.98%;
 }
+.about
+{
+    position: absolute;
+    width: 1280px;
+    height: 572px;
+    left: 0;
+    top: 658px;
+}
+.img
+{
+    position: absolute;
+    width: 328px;
+    height: 4456px;
+    left: 72px;
+    top: 58px;
+}
+.img img
+{
+    clip-path: circle();
+}
+.about h3
+{
+    position: absolute;
+    width: 126px;
+    height: 56px;
+    left: 642px;
+    top: 96px;
+    font-size: 36px;
+    color: #fff;
+}
+.about p
+{
+    position: absolute;
+    width: 505px;
+    height: 104px;
+    left: 599px;
+    top: 234px;
+    font-size: 1.2em;
+    color: #fff;
+}
+.about a
+{
+    position: absolute;
+    width: 151px;
+    height: 42px;
+    left: 565px;
+    top: 455px;
+    background: #d9b63b;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
