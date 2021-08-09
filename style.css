@@ -363,39 +363,34 @@ header .sticky ul li a
     left: 88px;
     top: 286px;
     margin: 30px;
-    padding: 30px;
-    justify-content: space-between;
    
 }
 .portfolio .img2
 {
     position: absolute;
     width: 568px;
-    height: 100px;
-    left: 412px;
-    top: 286px;
-    padding: 30px;
-    margin: 30px;
+    height: 120px;
+    left: 480px;
+    top: 320px;
+   
 }
 .portfolio .img3
 {
     position: absolute;
-    width: 284px;
-    height: 208px;
-    left: 412px;
-    top: 424px;
-    padding: 30px;
-    margin: 30px;
+    width: 30px;
+    height: 5px;
+    left: 500px;
+    top: 540px;
+   
 }
 .portfolio .img4
 {
     position: absolute;
-    width: 284px;
-    height: 208px;
-    left: 736px;
-    top: 424px;
-    padding: 30px;
-    margin: 30px;
+    width: 250px;
+    height: 50px;
+    left: 820px;
+    top: 540px;
+   
 }
 
 /*-- Contact Page --*/
