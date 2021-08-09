@@ -316,3 +316,419 @@ header .sticky ul li a
     text-align: center;
     columns: #000;
 }
+
+/*---Portfolio---*/
+.portfolio
+{
+    position: absolute;
+    width: 1280px;
+    height: 656px;
+    left: 0;
+    top: 1920px;
+}
+.portfolio h4
+{
+    position: absolute;
+    width: 282px;
+    height: 56px;
+    left: 459px;
+    top: 44px;
+    font-weight: 300;
+    font-size: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.portfolio p
+{
+    position: absolute;
+    width: 413px;
+    height: 28px;
+    left: 412px;
+    top: 150px;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.portfolio .img1
+{
+    position: absolute;
+    width: 284px;
+    height: 326px;
+    left: 88px;
+    top: 286px;
+    margin: 30px;
+    padding: 30px;
+    justify-content: space-between;
+   
+}
+.portfolio .img2
+{
+    position: absolute;
+    width: 568px;
+    height: 100px;
+    left: 412px;
+    top: 286px;
+    padding: 30px;
+    margin: 30px;
+}
+.portfolio .img3
+{
+    position: absolute;
+    width: 284px;
+    height: 208px;
+    left: 412px;
+    top: 424px;
+    padding: 30px;
+    margin: 30px;
+}
+.portfolio .img4
+{
+    position: absolute;
+    width: 284px;
+    height: 208px;
+    left: 736px;
+    top: 424px;
+    padding: 30px;
+    margin: 30px;
+}
+/*
+/*-- Contact Page 
+.contact
+{
+    position: absolute;
+    width: 1280px;
+    height: 820px;
+    left: 0px;
+    top: 3000px;
+    background: url(https://images.unsplash.com/photo-1488998427799-e3362cec87c3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.details
+{
+    position: absolute;
+    width: 694px;
+    height: 468px;
+    left: 293px;
+    top: 164px;
+    background: #fff;
+}
+.details h4
+{
+    position: absolute;
+    width: 283px;
+    height: 42px;
+    left: 240px;
+    top: 70px;
+    font-size: 24px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000;
+}
+.details p
+{
+    position: absolute;
+    width: 480px;
+    height: 56px;
+    left: 100px;
+    top: 144px;
+    font-style: normal;
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000;
+}
+.details a
+{
+    position: absolute;
+    width: 146px;
+    height: 34px;
+    left: 240px;
+    top: 281px;
+    background: #d9b63b;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #000;
+}
+
+/*--- Skills page --*/
+.skills
+{
+    position: absolute;
+    width: 1280px;
+    left: 0px;
+    height: 604px;
+    top: 3400px;
+}
+.skills h3
+{
+    position: absolute;
+    width: 113px;
+    height: 56px;
+    left: 506px;
+    top: 504px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.front
+{
+    
+    position: absolute;
+    width: 238px;
+    height: 238px;
+    left: 50px;
+    top: 620px;
+    font-weight: 300;
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;   
+}
+.front h4
+{
+    position: absolute;
+    width: 113px;
+    height: 56px;
+    left: 106px;
+    top: 10px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.back
+{
+    
+    position: absolute;
+    width: 238px;
+    height: 138px;
+    left: 650px;
+    top: 620px;
+    font-weight: 300;
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;   
+}
+.front ol li
+{
+    left: 106px;
+    
+}
+.back h4
+{
+    position: absolute;
+    width: 113px;
+    height: 56px;
+    left: 106px;
+    top: 10px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.back ol li 
+{
+    top: 100px;
+}
+.timeline
+{
+    position: absolute;
+    width: 1280px;
+    left: 0px;
+    height: 604px;
+    top: 5400px;
+}
+.timeline h3
+{
+    position: absolute;
+    width: 245px;
+    height: 75px;
+    left: 431px;
+    top: -35px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.yr1
+{
+    position: absolute;
+    width: 686px;
+    height: 53px;
+    left: 342px;
+    top: 100px;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.yr1 h4
+{
+    position: absolute;
+    width: 81px;
+    height: 42px;
+    left: 0px;
+    top: -30px;
+    font-size: 36px;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.yr1 p
+{
+    position: absolute;
+    width: 686px;
+    height: 53px;
+    left: 142px;
+    top: 20px;
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.yr2
+{
+    position: absolute;
+    width: 686px;
+    height: 53px;
+    left: 142px;
+    top: 100px;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.yr2 h4
+{
+    position: absolute;
+    width: 81px;
+    height: 42px;
+    left: 200px;
+    top: 80px;
+    font-size: 36px;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.yr2 p
+{
+    position: absolute;
+    width: 686px;
+    height: 53px;
+    left: 342px;
+    top: 120px;
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.yr3
+{
+    position: absolute;
+    width: 686px;
+    height: 53px;
+    left: 142px;
+    top: 100px;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.yr3 h4
+{
+    position: absolute;
+    width: 81px;
+    height: 42px;
+    left: 200px;
+    top: 200px;
+    font-size: 36px;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.yr3 p
+{
+    position: absolute;
+    width: 686px;
+    height: 53px;
+    left: 342px;
+    top: 240px;
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.yr4
+{
+    position: absolute;
+    width: 686px;
+    height: 53px;
+    left: 142px;
+    top: 100px;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.yr4 h4
+{
+    position: absolute;
+    width: 81px;
+    height: 42px;
+    left: 200px;
+    top: 320px;
+    font-size: 36px;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.yr4 p
+{
+    position: absolute;
+    width: 686px;
+    height: 53px;
+    left: 280px;
+    top: 380px;
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+
+
