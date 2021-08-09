@@ -397,8 +397,8 @@ header .sticky ul li a
     padding: 30px;
     margin: 30px;
 }
-/*
-/*-- Contact Page 
+
+/*-- Contact Page --*/
 .contact
 {
     position: absolute;
@@ -462,7 +462,7 @@ header .sticky ul li a
     color: #000;
 }
 
-/*--- Skills page --*/
+/*--- Skills page 
 .skills
 {
     position: absolute;
