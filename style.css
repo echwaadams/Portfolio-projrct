@@ -462,7 +462,7 @@ header .sticky ul li a
     color: #000;
 }
 
-/*--- Skills page 
+/*--- Skills page ---*/
 .skills
 {
     position: absolute;
@@ -555,6 +555,8 @@ header .sticky ul li a
 {
     top: 100px;
 }
+
+/*---timeline---
 .timeline
 {
     position: absolute;
